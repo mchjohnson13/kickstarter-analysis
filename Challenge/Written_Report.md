@@ -10,11 +10,15 @@ Specifically, Louise wants to understand if and how the launch dates and funding
 The purpose of this project is to analyze and create visuals that depict the above referenced information.
 
 ## Analysis and Challenges
-
+[Kickstarter Challenge Workbook](./Kickstarter_Challenge.xlsx)
 ### Analysis of Outcomes Based on Launch Date
-[Outcomes Based on Launch Date](./Theatre_Outcomes_vs_Launch.png)
+The Theatre campaigns based on launch month was charted to show the months with the highest number of successes.  
+</br> 
+![Outcomes Based on Launch Date](./Theatre_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-[Outcomes vs. Goals](.Outcomes_vs_Goals.png)
+To visualize the effect of goal amounts on the outcomes of Play campaigns, set ranges of goal amounts were plotted against the percentage of successful and failed campaigns.  
+</br>
+![Outcomes vs. Goals](./Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
@@ -29,6 +33,7 @@ The purpose of this project is to analyze and create visuals that depict the abo
   * One-third of the campaigns in the play subcatagory failed
 
 - What are some limitations of this dataset?
-
-
+  * 
+  
 - What are some other possible tables and/or graphs that we could create?
+  * Adding information on the rates of successful outcomes based on launch date and plotting that instead of the actual numbers gives an even better picture of what months are best to launch a campaign. 
