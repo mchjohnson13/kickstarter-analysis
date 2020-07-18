@@ -12,9 +12,9 @@ The purpose of this project is to analyze and create visuals that depict the abo
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[add chart]
+[Outcomes Based on Launch Date](./Theatre_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-[add chart]
+[Outcomes vs. Goals](.Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
