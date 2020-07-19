@@ -20,20 +20,24 @@ To visualize the effect of goal amounts on the outcomes of Play campaigns, set r
 </br>
 ![Outcomes vs. Goals](./Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-
+Data analysis in Excel is straightforward. The only issues were in learning how GitHub works and using the markdown language.
 ## Results
-
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  1. There is a spike in successful outcomes within the Theatre category where the campaigns were started in the month of May which corresponds to the higher numbers of campaigns started in that month.
-  2. The launch month with the least number of successful outcomes is December which also corresponds to the lowest number of campaign starts.
+1. There is a spike in successful outcomes within the Theatre category where the campaigns were started in the month of May which corresponds to the higher numbers of campaigns started in that month.
+2. The launch month with the least number of successful outcomes is December which also corresponds to the lowest number of campaign starts.
   
 - What can you conclude about the Outcomes based on Goals?
   * The campaigns that had goals of less than $5,000 were more likely to have a successful outcome.
   * None of the campaigns in the "play" category were canceled.
   * One-third of the campaigns in the play subcatagory failed
-
+  
 - What are some limitations of this dataset?
-  * 
+  * This data is only from the Kickstarter platform. There are other platforms some of which may have more data in the Theatre category and the Play subcategory.
+    - Comparing the outcomes on different platforms could show if there is a better platform to launch on.
+    - Pulling the launch date from all of the platforms would give an even better idea if there is a trend in successful outcomes. If different platforms have different successful months, the required launch date could determine what platform to use.
+  * Information on how each of the campaigns were marketed would give an idea of where to focus efforts.
+  * The outcome vs. goal does not take into account the different currency rates.  
   
 - What are some other possible tables and/or graphs that we could create?
-  * Adding information on the rates of successful outcomes based on launch date and plotting that instead of the actual numbers gives an even better picture of what months are best to launch a campaign. 
+  * Outcomes based on the length of the campaign
+  * Analyze the campaigns that used "spotlight"
